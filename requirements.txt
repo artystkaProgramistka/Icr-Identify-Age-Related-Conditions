@@ -1,0 +1,15 @@
+torch
+seaborn
+opencv-python
+catboost
+scikit-learn==1.2.2
+tabpfn
+xgboost
+lightgbm
+scipy
+openpyxl
+pytorch-tabnet
+imbalanced-learn
+optuna
+kaleido
+pandas
